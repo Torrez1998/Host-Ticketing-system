@@ -26,3 +26,6 @@ let it provision for us. Once it is running, we will hit "launch LISH Console" i
 
 ![image](https://github.com/user-attachments/assets/c47ea3f6-c32e-4b45-9fba-a1c6f8fe1415)
 
+It should look like this.
+
+![image](https://github.com/user-attachments/assets/72e0de74-cd0a-429e-a6d5-a9bcd68c2682)
